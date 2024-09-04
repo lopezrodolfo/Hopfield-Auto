@@ -1,0 +1,176 @@
+Input testing image:
+O O O @ @ 
+ O O O @ O
+O O O O O 
+ @ @ @ @ @
+O @ @ @ @ 
+ O @ @ O O
+O O O O O 
+ O @ O O O
+O O @ O O 
+ O @ O O @
+
+The associated stored image:
+O O O O O 
+ O O O O O
+O O O O O 
+ O O O O O
+O O O O O 
+ O O O O O
+O O O O O 
+ O O O O O
+O O O O O 
+ O O O O O
+
+Pattern correctly associated
+Input testing image:
+O@  OO  OO
+OO  OO  OO
+  OO  @@  
+  OO  O@@@
+@@  OO  OO
+OO  OO  OO
+  OO  @@@@
+  OO  @O  
+@@  OO  OO
+OO  O@@ OO
+
+The associated stored image:
+OO  OO  OO
+OO  OO  OO
+  OO  OO  
+  OO  OO  
+OO  OO  OO
+OO  OO  OO
+  OO  OO  
+  OO  OO  
+OO  OO  OO
+OO  OO  OO
+
+Pattern correctly associated
+Input testing image:
+OO@@@     
+OOO@O     
+O@OO@     
+@@OOO  @  
+OOO@O     
+     O@OOO
+     @@@@@
+ @   OOO@@
+     OOOO@
+     @OOOO
+
+The associated stored image:
+OOOOO     
+OOOOO     
+OOOOO     
+OOOOO     
+OOOOO     
+     OOOOO
+     OOOOO
+     OOOOO
+     OOOOO
+     OOOOO
+
+Pattern correctly associated
+Input testing image:
+@ @@  O  O
+ O  O@@O @
+ @O  O  O@
+O  O @@  O
+ O  O  O  
+  @@ O  O 
+@  O  O  @
+ O  O @@@@
+@@O @O  O 
+O  O @O  O
+
+The associated stored image:
+O  O  O  O
+ O  O  O  
+  O  O  O 
+O  O  O  O
+ O  O  O  
+  O  O  O 
+O  O  O  O
+ O  O  O  
+  O  O  O 
+O  O  O  O
+
+Pattern correctly associated
+Input testing image:
+OO@@@OOO@O
+O        @
+O OOOOOO @
+@@O    O O
+O @ OO O O
+O O @@ O O
+@@O    @ O
+O @@@OOO O
+O       @O
+O@OOO@@O@O
+
+The associated stored image:
+OOOOOOOOOO
+O        O
+O OOOOOO O
+O O    O O
+O O OO O O
+O O OO O O
+O O    O O
+O OOOOOO O
+O        O
+OOOOOOOOOO
+
+Pattern correctly associated
+Input testing image:
+O @ O     
+@ O O     
+     @ @ O
+     O   @
+       O  
+       @  
+     O   O
+     @ O O
+O @ @     
+O O @     
+
+The associated stored image:
+O O       
+O O O     
+     O O O
+     O   O
+       O  
+       O  
+     O   O
+     O O O
+O O O     
+O O       
+
+Pattern correctly associated
+Input testing image:
+@         
+O @ O     
+    @@ O @
+       @@@
+         O
+        @@
+       O O
+     O @  
+O @ O     
+O         
+
+The associated stored image:
+O         
+O O O     
+     O O  
+         O
+       O  
+          
+         O
+     O O  
+O O O     
+O         
+
+Pattern correctly associated
+The percentage of images associated is: 100.0%
